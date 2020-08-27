@@ -1,4 +1,14 @@
 {
     "githubUsername": "aChinamobileaccount",
-
+"blogTitle": "中国移动小和山校园厅",
+    "blogDescribe": "欢迎来到小和山移动校园厅的博客",
+    "htmlTitle": "小和山移动校园厅",
+    "fontColor": "#ffffff",
+    "useBackgroundImage": false,
+    "backgroundColorLeft": "#00BFFF",
+    "backgroundColorRight": "#90EE90",
+    "mini": false,
+    "webSites":[
+        {"name":"v2ex" , "url":"https://www.v2ex.com/member/laziji"}
+    ]
 }
